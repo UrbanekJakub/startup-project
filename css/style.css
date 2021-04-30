@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Raleway:ital@1&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+}
+body { 
+	font-family: 'Lora',sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	text-decoration-color: white;
+ }
+h1, h2, h3, h4 {
+	font-family: 'Mshtakan', sans-serif;
+	font-weight: bold;
+	text-decoration-color:white;
+}
+a {
+	text-decoration: none;
+}
+p { 
+	text-align: center;
+	font-size: 15px;
+ 	width: 750px;
+	font-family: PT Serif;
+
+ }
+
